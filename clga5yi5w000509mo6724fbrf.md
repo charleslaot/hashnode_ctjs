@@ -108,3 +108,5 @@ In an ideal world, we would have all the experience we needed, and we would know
 I hope this guide has given you a little head start. Get some perspective from my mistakes. As Eleanor Roosevelt once said: “Learn from the mistakes of others. You can’t live long enough to make them all yourself.”
 
 And remember, keep calm and code away!
+
+- Carlos
