@@ -1,9 +1,12 @@
 ---
 title: "7 Things I Wish I Knew When I Applied for My First Developer Job"
+seoTitle: "7 Things I Wish I Knew When I Applied for My First Developer Job"
 datePublished: Mon Apr 10 2023 01:37:13 GMT+0000 (Coordinated Universal Time)
 cuid: clga5yi5w000509mo6724fbrf
 slug: 7-things-i-wish-i-knew-when-i-applied-for-my-first-developer-job
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/WdJkXFQ4VHY/upload/5d869c8daebc3eb6d22a60b5983b6622.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681096319271/72357f3f-8220-4298-9a18-eedd2a9ca777.jpeg
+tags: programming-blogs, web-development, developer, coding, career
 
 ---
 
