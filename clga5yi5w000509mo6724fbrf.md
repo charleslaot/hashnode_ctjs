@@ -10,7 +10,8 @@ tags: programming-blogs, web-development, developer, coding, career
 
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4aGE9sZVPvP83k3m7vmRyo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4aGE9sZVPvP83k3m7vmRyo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Landing your first developer job is hard. Perhaps not a very popular statement, I know, but it’s the truth. The industry can be elitist, and there are more newcomers every day. That’s not a bad thing. It just means more competition for those who don’t have prior experience.
 
 However, facing occasionally elitist attitudes or having to compete with many others doesn’t mean it is impossible to get your first job. I mean, we all started from somewhere, right?
